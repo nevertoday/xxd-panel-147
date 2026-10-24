@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 147｜Bento Food Packaging: 'bento-fies' a photo by mapping every key element, whether people, buildings, plants, sky, water or objects, onto real food such as rice, vegetables, egg, fruit, nori, cheese, sauce, jelly, roe and herbs, packed into one clear convenience-store deli box, bento tray or divided container and shot as realistic top-down packaged-food photography with fresh textures, moisture and natural light, in bright food colours derived from the photo, with a restrained Japanese konbini-style product label (name, short line, price, weight, barcode or dates) in any language. Photographic, not an illustration. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-147 or asks to turn a photo into a bento, food packaging, konbini deli box or food-substitution product shot.",
+  "short_description": "便当食材包装志：把照片里的一切换成食材，装进透明便利店熟食盒，拍成俯视商品照",
+  "zh-CN": {
+    "name": "便当食材包装志",
+    "tagline": "把照片里的一切换成食材，装进一个透明便利店熟食盒，拍成俯视商品照。",
+    "look": "这一款不是插画，而是逼真的俯拍食品摄影。照片里的人物、建筑、植物、天空、水面或器物，被换成米饭、蔬菜、鸡蛋、水果、海苔、奶酪、酱汁、果冻、鱼籽、香草等食材，按原画面的结构摆进一个透明熟食盒、便当托盘或分格容器里：第一眼认出原画面，第二眼才发现全是吃的。能看到透明盒的材质、食材的颗粒、切面和湿润感，光线自然新鲜。颜色从照片转成食材本身的颜色，明亮诱人。盒上贴一张克制的日系便利店标签，可以有品名、短句、价格、重量、条码或保质信息，四周留有余白。",
+    "traits": [
+      "便当化",
+      "食材语义映射",
+      "单个透明熟食盒",
+      "俯拍食品摄影",
+      "新鲜食材色",
+      "克制商品标签"
+    ],
+    "good": [
+      "构图简单、色块分明的风景：海边日落、绿色山丘、蓝天白云、稻田",
+      "主体好认的人或物：一张笑脸、一只熊猫、一座红色灯塔、一辆黄色巴士",
+      "想做成趣味社交内容、餐饮品牌创意或节日惊喜图的照片"
+    ],
+    "poor": [
+      "细节极多、结构复杂的场景，塞进饭盒会变成一盘杂烩",
+      "严肃、悲伤或不适合用食物开玩笑的照片",
+      "想要手绘插画、扁平风格，或希望人物保持原本样子的需求"
+    ]
+  },
+  "en": {
+    "name": "Bento Food Packaging",
+    "tagline": "Swaps everything in your photo for food, packs it into a clear convenience-store deli box and shoots it from above.",
+    "look": "This is realistic top-down food photography, not an illustration. People, buildings, plants, sky, water or objects in the photo are replaced by food such as rice, vegetables, egg, fruit, nori, cheese, sauce, jelly, roe and herbs, arranged after the original's structure inside one clear deli box, bento tray or divided container: at first glance you recognise the photo, at second glance it is all food. You can see the clear plastic, grains, cut surfaces and moisture under fresh natural light. The photo's colours become the natural colours of the food, bright and appetising. A restrained Japanese konbini-style label sits on the box, with a product name, short line, price, weight, barcode or best-before date, and there is breathing room around it.",
+    "traits": [
+      "Bento-fication",
+      "Food substitution by meaning",
+      "One clear deli box",
+      "Top-down food photography",
+      "Fresh ingredient colours",
+      "Restrained product label"
+    ],
+    "good": [
+      "Simple landscapes with clear colour areas: a seaside sunset, green hills, blue sky with clouds, rice paddies",
+      "People or things that are easy to recognise: a smiling face, a panda, a red lighthouse, a yellow bus",
+      "Photos for playful social content, a food-brand idea or a festive surprise"
+    ],
+    "poor": [
+      "Highly detailed, complex scenes, which turn into a jumbled box of food",
+      "Serious or sad photos, or subjects that should not be joked about with food",
+      "Requests for hand-drawn or flat illustration, or for people to stay as they look in the photo"
+    ]
+  },
+  "ja": {
+    "name": "弁当食材パッケージ",
+    "tagline": "写真の中のすべてを食材に置き換え、透明なコンビニ惣菜パックに詰めて真上から撮った商品写真にします。",
+    "look": "これはイラストではなく、写実的な真上からの食品写真です。写真の人物、建物、植物、空、水面、器などを、ご飯、野菜、卵、果物、海苔、チーズ、ソース、ゼリー、魚卵、ハーブなどの食材に置き換え、元の画面の構造どおりに透明な惣菜パック、弁当トレー、仕切り付き容器に一つ詰めます。ひと目で元の写真だとわかり、二度見るとすべて食べ物だと気づく仕掛けです。透明パックの質感、食材の粒、切り口、みずみずしさが自然な光の中で見えます。写真の色は食材そのものの色になり、明るくおいしそうです。パックには控えめな日本のコンビニ風ラベルが貼られ、商品名、短い一言、価格、重さ、バーコード、消費期限などが入り、周りには余白があります。",
+    "traits": [
+      "弁当化",
+      "意味で選ぶ食材の置き換え",
+      "透明な惣菜パック一つ",
+      "真上からの食品写真",
+      "新鮮な食材の色",
+      "控えめな商品ラベル"
+    ],
+    "good": [
+      "構図がシンプルで色の面がはっきりした風景：海辺の夕日、緑の丘、青空と白い雲、田んぼ",
+      "わかりやすい人や物：笑顔、パンダ、赤い灯台、黄色いバス",
+      "遊び心のある SNS 投稿、飲食ブランドのアイデア、季節のサプライズにしたい写真"
+    ],
+    "poor": [
+      "細部が非常に多く複雑な場面（容器に詰めるとごちゃ混ぜになります）",
+      "深刻な写真、悲しい写真、食べ物で茶化すべきでない題材",
+      "手描きや平面的なイラストを求める場合や、人物を元の姿のまま残したい場合"
+    ]
+  },
+  "ko": {
+    "name": "도시락 식재료 패키징",
+    "tagline": "사진 속 모든 것을 식재료로 바꿔 투명한 편의점 반찬 용기에 담고 위에서 찍은 상품 사진으로 만듭니다.",
+    "look": "이것은 일러스트가 아니라 사실적인 탑뷰 음식 사진입니다. 사진 속 사람, 건물, 식물, 하늘, 물, 그릇 등을 밥, 채소, 달걀, 과일, 김, 치즈, 소스, 젤리, 생선알, 허브 같은 식재료로 바꿔, 원래 화면의 구조대로 투명 반찬 용기, 도시락 트레이, 칸막이 용기 하나에 담습니다. 첫눈에는 원래 사진이 보이고, 다시 보면 전부 음식이라는 걸 알게 됩니다. 투명 용기의 재질, 식재료의 알갱이, 단면, 촉촉함이 자연스러운 신선한 빛 아래 보입니다. 사진의 색은 식재료 고유의 색으로 바뀌어 밝고 먹음직스럽습니다. 용기에는 절제된 일본 편의점풍 라벨이 붙어 상품명, 짧은 문구, 가격, 중량, 바코드, 유통기한 등이 들어가고 주변에는 여유 공간이 있습니다.",
+    "traits": [
+      "도시락화",
+      "의미에 따른 식재료 치환",
+      "투명 반찬 용기 하나",
+      "탑뷰 음식 사진",
+      "신선한 식재료 색",
+      "절제된 상품 라벨"
+    ],
+    "good": [
+      "구도가 단순하고 색 면이 분명한 풍경: 바닷가 노을, 초록 언덕, 파란 하늘과 흰 구름, 논",
+      "알아보기 쉬운 사람이나 사물: 웃는 얼굴, 판다, 빨간 등대, 노란 버스",
+      "재미있는 SNS 콘텐츠, 외식 브랜드 아이디어, 명절 깜짝 이미지로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "세부가 아주 많고 복잡한 장면(용기에 담으면 뒤죽박죽이 됩니다)",
+      "진지하거나 슬픈 사진, 음식으로 장난치기 어려운 대상",
+      "손그림이나 평면 일러스트를 원하거나 인물을 원래 모습 그대로 두고 싶은 경우"
+    ]
+  },
+  "ar": {
+    "name": "تغليف البنتو الغذائي",
+    "tagline": "يستبدل كل ما في صورتك بالطعام، ويعبّئه في علبة أطعمة جاهزة شفافة من متجر صغير، ويصوّره من الأعلى.",
+    "look": "هذا تصوير طعام واقعي من الأعلى، لا رسم. يُستبدل الأشخاص والمباني والنباتات والسماء والماء والأشياء في الصورة بأطعمة كالأرز والخضار والبيض والفاكهة وأعشاب النوري البحرية والجبن والصلصة والهلام وبيض السمك والأعشاب العطرية، وتُرتَّب على بنية الصورة الأصلية داخل علبة أطعمة شفافة أو صينية بنتو أو وعاء مقسّم واحد: في النظرة الأولى تعرف الصورة، وفي الثانية تكتشف أن كل شيء طعام. يظهر البلاستيك الشفاف وحبيبات الطعام ومقاطعه ورطوبته تحت ضوء طبيعي منعش. تتحول ألوان الصورة إلى ألوان الطعام الطبيعية، زاهية وشهية. وعلى العلبة ملصق مقتضب بأسلوب المتاجر اليابانية الصغيرة، فيه اسم المنتج وعبارة قصيرة والسعر والوزن والرمز الشريطي أو تاريخ الصلاحية، مع مساحة تنفّس حولها.",
+    "traits": [
+      "تحويل إلى بنتو",
+      "استبدال الطعام بحسب المعنى",
+      "علبة أطعمة شفافة واحدة",
+      "تصوير طعام من الأعلى",
+      "ألوان مكوّنات طازجة",
+      "ملصق منتج مقتضب"
+    ],
+    "good": [
+      "مناظر بسيطة بمساحات لونية واضحة: غروب على البحر، تلال خضراء، سماء زرقاء وغيوم، حقول أرز",
+      "أشخاص أو أشياء يسهل التعرّف عليها: وجه مبتسم، باندا، منارة حمراء، حافلة صفراء",
+      "صور لمحتوى طريف على وسائل التواصل أو فكرة لعلامة طعام أو مفاجأة احتفالية"
+    ],
+    "poor": [
+      "مشاهد شديدة التفصيل والتعقيد، تتحول إلى علبة طعام مختلطة",
+      "صور جادة أو حزينة، أو موضوعات لا يليق المزاح بها عبر الطعام",
+      "طلب رسم يدوي أو مسطّح، أو إبقاء الأشخاص كما هم في الصورة"
+    ]
+  }
+}
